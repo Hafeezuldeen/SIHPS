@@ -1,5 +1,5 @@
 # Smart India Hackathon Workshop
-# Date:
+# Date:13-05-2024
 ## Register Number:
 ## Name:
 ## Problem Title
@@ -60,8 +60,10 @@ Use Case: Emily is passionate about sustainability and prefers to support e-wast
     - NativeScript
 
 ## Dependencies
-Frontend Dependencies:
-Frameworks: React.js, Angular, Vue.js
-UI Components: Material-UI, Bootstrap
-Mapping Libraries: Leaflet.js, Google Maps API
-Mobile Development Tools: React Native, Flutter, NativeScript
+Programming Languages: Node.js, Python, Java
+Web Frameworks: Express.js, Django, Flask, Spring Boot
+Database Systems: MongoDB, PostgreSQL, MySQL, Firebase Realtime Database
+
+Geolocation Services Dependencies:
+Mapping APIs: Google Maps API, Mapbox API, OpenStreetMap
+GeoJSON data formats for representing geographical features
